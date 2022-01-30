@@ -1,0 +1,1 @@
+I saw this video: https://www.youtube.com/watch?v=4Lb-6rxZxx0&t=1s and I needed to see it simulated in my own way so that I could see this in action. That was the inspiration behind this script.
